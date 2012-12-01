@@ -155,7 +155,7 @@ table.clients
 
   - language("haXe")
     :markdown
-      * [hxStomp](hxstomp|http://code.google.com/p/hxstomp/) is a TCP socket-based
+      * [hxStomp](http://code.google.com/p/hxstomp/) is a TCP socket-based
         Stomp protocol client library written for the [Haxe](http://www.haxe.org)
         language.
 
